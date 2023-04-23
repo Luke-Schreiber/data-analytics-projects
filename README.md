@@ -4,4 +4,4 @@ Two seperate data analysis projects in google colab:
   - Project to uncover bias in music reviews (Pitchfork_Problem, 2021)
  
 One R Markdown data analysis project:
-  - Real life collection of data to determine social media bias (Social_Media_Bias_Project.Rmd, 2022)
+  - Real life collection of data to determine social media bias (Social_Media_Bias_Project, 2022)
